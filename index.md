@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Repositories
 
-You can use the [editor on GitHub](https://github.com/DmitrySokolov/dmitrysokolov.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## AutoHotKey scripts
 
-### Markdown
+Repository: [ahk-scripts](https://github.com/DmitrySokolov/ahk-scripts)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A set of scripts for the [AutoHotKey](https://www.autohotkey.com/) tool like "Search the selected text on Google with the shortcut Win+Ctrl+g".
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Windows CMD shell scripts
 
-- Bulleted
-- List
+Repository: [cmd-scripts](https://github.com/DmitrySokolov/cmd-scripts)
 
-1. Numbered
-2. List
+Some helper scripts like argparse (command line parser).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Greasemonkey scripts
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Repository: [greasemonkey-scripts](https://github.com/DmitrySokolov/greasemonkey-scripts)
 
-### Jekyll Themes
+[Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) scripts that
+* change sites layout and CSS (Feedly, Habr, Wikipedia, Facebook),
+* add new functionality (Habr - comments folding, Yandex.Market - rating for each item),
+* add images viewer on each site.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DmitrySokolov/dmitrysokolov.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## dependents-graph
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Repository: [dependents-graph](https://github.com/DmitrySokolov/dependents-graph)
+
+Tools for generating a dependency graph of Windows executable (.exe, .dll) files.
+
+
+## dev-env
+
+Repository: [dev-env](https://github.com/DmitrySokolov/dev-env)
+
+PowerShell script for installing a development environment (a sort of lightweight package manager).
+
+
+## zimbra-bot
+
+Repository: [zimbra-bot](https://github.com/DmitrySokolov/zimbra-bot)
+
+[Discord](https://discordapp.com/) bot for [Zimbra](https://www.zimbra.com) server. It reads events from a Zimbra calendar and pushes notifications to a Discord channel.
