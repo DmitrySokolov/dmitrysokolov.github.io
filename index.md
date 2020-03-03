@@ -44,3 +44,10 @@ PowerShell script for installing a development environment (a sort of lightweigh
 Repository: [zimbra-bot](https://github.com/DmitrySokolov/zimbra-bot)
 
 [Discord](https://discordapp.com/) bot for [Zimbra](https://www.zimbra.com) server. It reads events from a Zimbra calendar and pushes notifications to a Discord channel.
+
+
+## bitflags
+
+Repository: [bitflags](https://github.com/DmitrySokolov/bitflags)
+
+C++ class for storing bit flags. Flag names are taken from 'enum class'. Type-safe bit operations (prevents using flags from different enums).
