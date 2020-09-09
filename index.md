@@ -51,3 +51,10 @@ Repository: [zimbra-bot](https://github.com/DmitrySokolov/zimbra-bot)
 Repository: [bitflags](https://github.com/DmitrySokolov/bitflags)
 
 C++ class for storing bit flags. Flag names are taken from 'enum class'. Type-safe bit operations (prevents using flags from different enums).
+
+
+## qLogcat
+
+Repository: [qLogcat](https://github.com/DmitrySokolov/qLogcat)
+
+GUI for Android 'logcat' tool.
