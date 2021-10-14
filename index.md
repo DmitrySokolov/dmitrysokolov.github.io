@@ -58,3 +58,10 @@ C++ class for storing bit flags. Flag names are taken from 'enum class'. Type-sa
 Repository: [qLogcat](https://github.com/DmitrySokolov/qLogcat)
 
 GUI for Android 'logcat' tool.
+
+
+## cleanup-android
+
+Repository [cleanup-android](https://github.com/DmitrySokolov/cleanup-android)
+
+Removes Android bloatware.
