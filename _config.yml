@@ -1,11 +1,13 @@
 theme: jekyll-theme-slate
 
-title: Dmitry Sokolov's Repositories
-tagline: Dmitry Sokolov's personal GitHub repositories
-description: Dmitry Sokolov's personal repositories, including, but not limited to, AutoHotKey scripts - a set of scripts for the AutoHotKey tool like 'Search the selected text on Google with the shortcut Win+Ctrl+g', Greasemonkey scripts - scripts that change sites layout and CSS (like Feedly, Habr, Wikipedia, Facebook), add new functionality (Habr - comments folding, Yandex.Market - rating for each item), add images viewer on each site, dependents-graph - tools for generating a dependency graph of Windows executable (.exe, .dll) files, dev-env - PowerShell script for installing a development environment (a sort of lightweight package manager), zimbra-bot - Discord bot for Zimbra server that reads events from a Zimbra calendar and pushes notifications to a Discord channel, bitflags - C++ class for storing bit flags, flag names are taken from 'enum class', type-safe bit operations (prevents using flags from different enums), qLogcat - GUI for Android 'logcat' tool, cleanup-android - PowerShell script that removes Android bloatware, IWYU build on Windows script, LLVM build on Windows script.
+title: Home | Dmitry Sokolov's personal repositories
+description: Dmitry Sokolov's personal repositories
 social:
   name: Dmitry Sokolov
   links:
     - https://www.linkedin.com/in/dmitry-sokolov-66a40894/
     - https://github.com/DmitrySokolov
     - https://stackoverflow.com/users/edit/2267114
+
+page:
+  title:
