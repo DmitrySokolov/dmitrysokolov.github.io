@@ -64,4 +64,18 @@ GUI for Android 'logcat' tool.
 
 Repository [cleanup-android](https://github.com/DmitrySokolov/cleanup-android)
 
-Removes Android bloatware.
+PowerShell script to remove Android bloatware.
+
+
+## iwyu-build
+
+Repository: [qLogcat](https://github.com/DmitrySokolov/iwyu-build)
+
+Script for building Include-what-you-use (IWYU) on Windows
+
+
+## llvm-build
+
+Repository: [qLogcat](https://github.com/DmitrySokolov/llvm-build)
+
+Script for building LLVM and Clang on Windows
